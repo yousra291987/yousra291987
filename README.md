@@ -59,9 +59,8 @@ My work sits at the intersection of 3D genome organization, epigenetic regulatio
 
 ## What I'm Working On
 
-- 🧬 Applying multi-omics and regulatory genomics to oncology (Maalouf Lab)
+- 🧬 Applying multi-omics and regulatory genomics to oncology
 - 🤖 Building ML workflows for biological data analysis
-- 📦 Improving documentation and examples for ChiCMaxima and VING
 
 ---
 
